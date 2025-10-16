@@ -3,20 +3,16 @@
 This repo explores **who accepts location-based coupons** using the UCI “In-vehicle coupon recommendation” dataset.
 
 - **Notebook:** [`prompt.ipynb`](prompt.ipynb)
-- **Data (assumed path):** `./data/coupons.csv`
-
-> Goal: Use quick EDA and simple slices to understand which passengers are most likely to accept coupons (with **Bar** and **Coffee House** examples).
+- **Data file path:** `./data/coupons.csv`
 
 ---
 
 ## Dataset
 
-- **File:** `./data/coupons.csv` (assumed to exist locally in the `data/` folder)
+- **File:** `./data/coupons.csv`
 - **Shape (after load):** ~12.7k rows × 26 columns
 - **Duplicates:** ~74 rows
-
-> If you place the CSV elsewhere, update the `pd.read_csv()` line in the notebook accordingly.
-
+  
 ---
 
 ## How to run
