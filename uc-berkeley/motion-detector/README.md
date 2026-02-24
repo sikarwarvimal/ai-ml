@@ -41,7 +41,7 @@ This project develops a machine learning solution to automatically classify exer
 
 ### 1. Data Collection
 - Downloaded exercise images from Pexels (free stock photos)
-- Applied data augmentation to create 741 total images from 57 base images
+- Applied data augmentation to create 3,205 total images from 57 base images
 - Organized images into structured folders by exercise and label
 
 ### 2. Feature Engineering
