@@ -13,20 +13,20 @@ This project develops a machine learning solution to automatically classify exer
 ## Dataset
 
 ### Dataset Composition
-- **Total Images**: 741
+- **Total Images**: 3,205
 - **Exercise Types**: 4 (Squat, Push-up, Plank, Lunge)
 - **Labels**: Binary (Correct, Incorrect)
 - **Image Resolution**: 640x480 pixels
 - **Data Augmentation**: Applied (12 augmentations per base image)
 
 ### Exercise Distribution
-| Exercise | Correct Form | Incorrect Form | Total |
-|----------|-------------|----------------|-------|
-| Squat    | 130         | 65             | 195   |
-| Push-up  | 130         | 65             | 195   |
-| Plank    | 104         | 65             | 169   |
-| Lunge    | 130         | 52             | 182   |
-| **Total**| **494**     | **247**        | **741** |
+| Exercise | Correct Form | Incorrect Form | Total   |
+|----------|-------------|----------------|----------|
+| Squat    | 400         | 400            | 800      |
+| Push-up  | 400         | 400            | 800      |
+| Plank    | 400         | 400            | 800      |
+| Lunge    | 405         | 400            | 805      |
+| **Total**| **1,605**   | **1,600**      | **3,205**|
 
 ### Data Augmentation Techniques
 - Horizontal flips
@@ -106,15 +106,13 @@ This project develops a machine learning solution to automatically classify exer
 ## Project Structure
 
 ```
-exercise-form-classification/
+notebooks/
 ├── exercise_training_dataset/              # Image dataset (741 images)
 │   ├── squat/correct/ & incorrect/
 │   ├── pushup/correct/ & incorrect/
 │   ├── plank/correct/ & incorrect/
 │   └── lunge/correct/ & incorrect/
-├── Exercise_Form_Classification_EDA.ipynb  # Main analysis notebook
-├── create_augmented_dataset.py             # Dataset creation script
-└── README_CAPSTONE.md                      # This file
+├── motion-detector.ipynb  # Main analysis notebook
 ```
 
 ## Installation & Usage
@@ -124,7 +122,7 @@ exercise-form-classification/
 pip install pandas numpy matplotlib seaborn plotly scikit-learn opencv-python mediapipe pillow jupyter
 
 # Run Jupyter Notebook
-jupyter notebook Exercise_Form_Classification_EDA.ipynb
+jupyter notebook motion-detector.ipynb
 ```
 
 ## Future Improvements
