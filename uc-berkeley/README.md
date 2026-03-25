@@ -56,13 +56,6 @@ This repo explores **who accepts location-based coupons** using the UCI “In-ve
 
 ---
 
-## Reproducibility notes
-
-- The notebook assumes the dataset at `./data/coupons.csv`. If the CSV isn’t found, update the path or place the file in `data/`.
-- A small plotting fix is included so seaborn can read the missingness table (reset index before plotting).
-
----
-
 ## Files
 
 - `prompt.ipynb` — main analysis notebook
