@@ -59,7 +59,7 @@ This repo explores **who accepts location-based coupons** using the UCI “In-ve
 ## Files
 
 - `prompt.ipynb` — main analysis notebook
-- `data/coupons.csv` — input dataset (not committed here; place it locally)
+- `data/coupons.csv` — input dataset
 - `README.md` — this file
 
 ---
