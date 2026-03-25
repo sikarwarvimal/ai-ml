@@ -44,15 +44,15 @@ This repo explores **who accepts location-based coupons** using the UCI “In-ve
 - **Habit strength matters.** Regular bar-goers are far more likely to accept:
   - ≤3×/month: **~52.8%**
   - >3×/month: **~76.9%**
-- **Age + frequency:** Among >1×/month visitors, **age >25** accept at **~70.0%**, vs **~34.8%** for everyone else.
+- **Age + frequency:** Among >1×/month visitors, **age >25** accept at **~69.97%**, vs **~34.82%** for everyone else.
 - **Interpretation:** Bar coupons act as a nudge for an existing habit, not a trigger for new behavior.
 
 ### Coffee House coupons
 - **Overall Coffee House Coupon Acceptance:** **~43.10%**.
-- **Time of day:** **6PM** shows maximum percentage of visitors (**~28.01%**).
-- **Maximum Coupon Accepted Time:** **6PM** shows maximum percentage of coupons accepted (**~31.92%**).
-- **Friends Passanger:** Riding with a Friends Passanger has coupons higher acceptance (**~55.82%**).
-- **Expiration:** **2‑hour** expiry performs better (**~54.93%**) than longer windows **1‑day** (urgency effect).
+- **Time of day:** **6PM** shows maximum percentage of visitors (**~25.54%**).
+- **Maximum Coupon Accepted Time:** **2PM** shows maximum percentage of coupons accepted (**~66.15%**).
+- **Friends Passanger:** Riding with a Friends Passanger has coupons higher acceptance (**~67.31%**).
+- **Expiration:** **2‑hour** expiry performs better (**~84.05%**) than longer windows **1‑day** (urgency effect).
   
 ---
 

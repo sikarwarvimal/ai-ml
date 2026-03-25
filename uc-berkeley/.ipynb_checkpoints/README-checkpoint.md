@@ -49,10 +49,10 @@ This repo explores **who accepts location-based coupons** using the UCI “In-ve
 
 ### Coffee House coupons
 - **Overall Coffee House Coupon Acceptance:** **~43.10%**.
-- **Time of day:** **6PM** shows maximum percentage of visitors (**~28.01%**).
-- **Maximum Coupon Accepted Time:** **6PM** shows maximum percentage of coupons accepted (**~31.92%**).
-- **Friends Passanger:** Riding with a Friends Passanger has coupons higher acceptance (**~55.82%**).
-- **Expiration:** **2‑hour** expiry performs better (**~54.93%**) than longer windows **1‑day** (urgency effect).
+- **Time of day:** **6PM** shows maximum percentage of visitors (**~25.54%**).
+- **Maximum Coupon Accepted Time:** **2PM** shows maximum percentage of coupons accepted (**~66.15%**).
+- **Friends Passanger:** Riding with a Friends Passanger has coupons higher acceptance (**~67.31%**).
+- **Expiration:** **2‑hour** expiry performs better (**~84.05%**) than longer windows **1‑day** (urgency effect).
   
 ---
 
