@@ -31,6 +31,8 @@ This repo explores **who accepts location-based coupons** using the UCI “In-ve
    ```bash
    jupyter notebook prompt.ipynb
    ```
+5. Localhost URL link:
+   http://localhost:8888/lab/tree/ai-ml/uc-berkeley/amazon-coupon/prompt.ipynb
 
 ---
 
@@ -68,7 +70,3 @@ This repo explores **who accepts location-based coupons** using the UCI “In-ve
 - `README.md` — this file
 
 ---
-
-## License
-
-MIT (or match your project’s preferred license).
