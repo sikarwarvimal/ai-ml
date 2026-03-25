@@ -1,0 +1,17 @@
+# Training dataset (images)
+notebooks/exercise_training_dataset/
+
+# Saved models
+notebooks/saved_models/
+
+# Pre-trained model files
+notebooks/movenet_lightning/
+notebooks/movenet_lightning.tar.gz
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
