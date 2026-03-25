@@ -8,7 +8,7 @@ This project explores a dataset of over 400,000 used car listings to understand 
 ## Summary of Findings
 
 - **Top Price Drivers**: Age, mileage, manufacturer (e.g., Toyota), vehicle type (e.g., pickup), condition, and transmission type.
-- **Best Performing Model**: Gradient Boosting Regressor with R² = 0.85 and RMSE ≈ $2,950.
+- **Best Performing Model**: Gradient Boosting Regressor with R Square = 0.85
 - **Key Recommendation**: Dealers should focus on low-mileage, newer vehicles from high-retention brands and price vehicles based on multiple features, not just make/model.
 
 ---
@@ -33,4 +33,4 @@ This project explores a dataset of over 400,000 used car listings to understand 
 
 ## Notebook Link
 
-[Click here to open the notebook](http://localhost:8888/lab/workspaces/auto-8/tree/kaiserlocal/projects/ai-ml/uc-berkeley/used-card/prompt_II.ipynb)
+[Click here to open the notebook](http://localhost:8888/lab/tree/kaiserlocal/projects/ai-ml/uc-berkeley/used-cars/prompt_II.ipynb)
